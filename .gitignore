@@ -1,0 +1,18 @@
+# model checkpoints are downloaded on first run (see weights/README.md)
+weights/*
+!weights/.gitkeep
+!weights/README.md
+!weights/epic_pair_prior.json
+# videos and scratch space
+*.mp4
+*.MP4
+*.webm
+*.mkv
+work/
+logs/
+third_party/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
