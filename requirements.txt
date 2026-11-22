@@ -2,4 +2,5 @@
 # Lower bounds are used on purpose so that `pip install` also resolves on older Python versions.
 numpy>=1.24
 torch>=2.2
+torchvision
 open_clip_torch>=2.24

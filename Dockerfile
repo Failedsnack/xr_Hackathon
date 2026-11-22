@@ -19,7 +19,7 @@ WORKDIR /app
 
 # CPU-only PyTorch first (the default Linux wheel pulls ~2 GB of CUDA libraries), then the rest.
 COPY requirements.txt .
-RUN pip install torch --index-url https://download.pytorch.org/whl/cpu \
+RUN pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu \
  && pip install -r requirements.txt
 
 COPY code/ code/
