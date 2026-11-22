@@ -124,3 +124,4 @@ time,video_id,dataset,status,seconds,label,highlight_frac,n_actions,notes
 2026-11-22 16:55:33,P04_32,epic_kitchens_100,ok,18.0,cooking,0.0747,49,
 2026-11-22 17:00:13,P09_07,epic_kitchens_100,ok,10.9,cooking,0.0724,60,
 2026-11-22 17:11:38,P26_39,epic_kitchens_100,ok,19.3,cooking,0.0705,30,
+2026-11-22 17:32:47,P26_38,epic_kitchens_100,ok,20.6,cooking,0.1376,33,
