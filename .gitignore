@@ -9,7 +9,6 @@ weights/*
 *.webm
 *.mkv
 work/
-logs/
 third_party/
 __pycache__/
 *.pyc
