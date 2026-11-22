@@ -1,0 +1,262 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P26_33",
+  "duration_sec": 38.1,
+  "label": {
+    "name": "cooking",
+    "score": 0.963
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        7.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.096
+    },
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.063
+    },
+    {
+      "segment": [
+        0.0,
+        2.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.053
+    },
+    {
+      "segment": [
+        1.0,
+        7.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.066
+    },
+    {
+      "segment": [
+        3.0,
+        6.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.028
+    },
+    {
+      "segment": [
+        5.0,
+        8.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        6.0,
+        15.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.347
+    },
+    {
+      "segment": [
+        6.0,
+        13.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.239
+    },
+    {
+      "segment": [
+        7.0,
+        10.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        9.0,
+        11.0
+      ],
+      "verb": "open",
+      "noun": "drawer",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        10.0,
+        12.0
+      ],
+      "verb": "close",
+      "noun": "drawer",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        11.0,
+        18.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.137
+    },
+    {
+      "segment": [
+        12.0,
+        14.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        13.0,
+        16.0
+      ],
+      "verb": "wash",
+      "noun": "pan",
+      "score": 0.059
+    },
+    {
+      "segment": [
+        14.0,
+        38.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.12
+    },
+    {
+      "segment": [
+        15.0,
+        38.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.086
+    },
+    {
+      "segment": [
+        17.0,
+        19.0
+      ],
+      "verb": "open",
+      "noun": "oven",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        18.0,
+        20.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.027
+    },
+    {
+      "segment": [
+        19.0,
+        21.0
+      ],
+      "verb": "open",
+      "noun": "oven",
+      "score": 0.03
+    },
+    {
+      "segment": [
+        20.0,
+        22.0
+      ],
+      "verb": "insert",
+      "noun": "pan",
+      "score": 0.026
+    },
+    {
+      "segment": [
+        21.0,
+        23.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.026
+    },
+    {
+      "segment": [
+        22.0,
+        24.0
+      ],
+      "verb": "insert",
+      "noun": "pan",
+      "score": 0.026
+    },
+    {
+      "segment": [
+        23.0,
+        29.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.028
+    },
+    {
+      "segment": [
+        28.0,
+        30.0
+      ],
+      "verb": "insert",
+      "noun": "pan",
+      "score": 0.025
+    },
+    {
+      "segment": [
+        29.0,
+        31.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.027
+    },
+    {
+      "segment": [
+        30.0,
+        36.0
+      ],
+      "verb": "insert",
+      "noun": "pan",
+      "score": 0.025
+    },
+    {
+      "segment": [
+        35.0,
+        38.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.027
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        7.5,
+        11.5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P11_18",
+  "duration_sec": 37.92,
+  "label": {
+    "name": "cooking",
+    "score": 0.816
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        8.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.13
+    },
+    {
+      "segment": [
+        0.0,
+        2.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.089
+    },
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.078
+    },
+    {
+      "segment": [
+        1.0,
+        4.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.078
+    },
+    {
+      "segment": [
+        3.0,
+        8.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.119
+    },
+    {
+      "segment": [
+        3.0,
+        5.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.084
+    },
+    {
+      "segment": [
+        4.0,
+        7.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.067
+    },
+    {
+      "segment": [
+        6.0,
+        9.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        7.0,
+        10.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.059
+    },
+    {
+      "segment": [
+        7.0,
+        10.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        8.0,
+        11.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        9.0,
+        13.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.073
+    },
+    {
+      "segment": [
+        9.0,
+        11.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.052
+    },
+    {
+      "segment": [
+        10.0,
+        12.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.078
+    },
+    {
+      "segment": [
+        10.0,
+        12.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.073
+    },
+    {
+      "segment": [
+        11.0,
+        13.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        11.0,
+        14.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        12.0,
+        24.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.07
+    },
+    {
+      "segment": [
+        12.0,
+        15.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        13.0,
+        16.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        14.0,
+        17.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        15.0,
+        18.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        16.0,
+        19.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.043
+    },
+    {
+      "segment": [
+        17.0,
+        19.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.035
+    },
+    {
+      "segment": [
+        18.0,
+        21.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        18.0,
+        20.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.03
+    },
+    {
+      "segment": [
+        19.0,
+        21.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        20.0,
+        22.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.077
+    },
+    {
+      "segment": [
+        20.0,
+        23.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.056
+    },
+    {
+      "segment": [
+        21.0,
+        24.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        22.0,
+        24.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        23.0,
+        31.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.072
+    },
+    {
+      "segment": [
+        23.0,
+        25.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        23.0,
+        26.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        24.0,
+        30.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        25.0,
+        30.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        29.0,
+        33.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.151
+    },
+    {
+      "segment": [
+        29.0,
+        33.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.118
+    },
+    {
+      "segment": [
+        30.0,
+        32.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        31.0,
+        35.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.075
+    },
+    {
+      "segment": [
+        32.0,
+        34.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        32.0,
+        34.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        33.0,
+        35.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        33.0,
+        35.0
+      ],
+      "verb": "take",
+      "noun": "cup",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        34.0,
+        37.92
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.063
+    },
+    {
+      "segment": [
+        34.0,
+        36.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        34.0,
+        36.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        35.0,
+        37.92
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        35.0,
+        37.92
+      ],
+      "verb": "close",
+      "noun": "drawer",
+      "score": 0.041
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        33.0,
+        37.0
+      ]
+    }
+  ]
+}

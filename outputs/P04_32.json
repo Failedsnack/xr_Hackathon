@@ -1,0 +1,460 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P04_32",
+  "duration_sec": 53.54,
+  "label": {
+    "name": "cooking",
+    "score": 0.992
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.121
+    },
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.066
+    },
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        2.0,
+        24.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        2.0,
+        5.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.031
+    },
+    {
+      "segment": [
+        2.0,
+        9.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.027
+    },
+    {
+      "segment": [
+        4.0,
+        6.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.02
+    },
+    {
+      "segment": [
+        5.0,
+        7.0
+      ],
+      "verb": "put",
+      "noun": "bowl",
+      "score": 0.02
+    },
+    {
+      "segment": [
+        6.0,
+        16.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        8.0,
+        11.0
+      ],
+      "verb": "put",
+      "noun": "lid",
+      "score": 0.021
+    },
+    {
+      "segment": [
+        10.0,
+        17.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.031
+    },
+    {
+      "segment": [
+        15.0,
+        20.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.024
+    },
+    {
+      "segment": [
+        16.0,
+        18.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.019
+    },
+    {
+      "segment": [
+        17.0,
+        24.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        19.0,
+        22.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.03
+    },
+    {
+      "segment": [
+        21.0,
+        24.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        23.0,
+        26.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.089
+    },
+    {
+      "segment": [
+        23.0,
+        26.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.064
+    },
+    {
+      "segment": [
+        23.0,
+        25.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        24.0,
+        26.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.053
+    },
+    {
+      "segment": [
+        25.0,
+        28.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        25.0,
+        27.0
+      ],
+      "verb": "put",
+      "noun": "lid",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        25.0,
+        27.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        26.0,
+        31.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        26.0,
+        28.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        27.0,
+        38.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        27.0,
+        29.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.02
+    },
+    {
+      "segment": [
+        28.0,
+        30.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.02
+    },
+    {
+      "segment": [
+        29.0,
+        38.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        30.0,
+        37.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        36.0,
+        43.0
+      ],
+      "verb": "pour",
+      "noun": "rice",
+      "score": 0.067
+    },
+    {
+      "segment": [
+        37.0,
+        40.0
+      ],
+      "verb": "mix",
+      "noun": "rice",
+      "score": 0.053
+    },
+    {
+      "segment": [
+        37.0,
+        39.0
+      ],
+      "verb": "insert",
+      "noun": "rice",
+      "score": 0.03
+    },
+    {
+      "segment": [
+        38.0,
+        40.0
+      ],
+      "verb": "take",
+      "noun": "rice",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        39.0,
+        45.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        39.0,
+        42.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        41.0,
+        45.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        42.0,
+        53.54
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        44.0,
+        47.0
+      ],
+      "verb": "pour",
+      "noun": "rice",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        44.0,
+        47.0
+      ],
+      "verb": "mix",
+      "noun": "rice",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        46.0,
+        48.0
+      ],
+      "verb": "take",
+      "noun": "flour",
+      "score": 0.026
+    },
+    {
+      "segment": [
+        46.0,
+        48.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.02
+    },
+    {
+      "segment": [
+        47.0,
+        51.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        47.0,
+        50.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        49.0,
+        52.0
+      ],
+      "verb": "pour",
+      "noun": "rice",
+      "score": 0.03
+    },
+    {
+      "segment": [
+        50.0,
+        53.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        51.0,
+        53.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.031
+    },
+    {
+      "segment": [
+        52.0,
+        53.54
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        52.0,
+        53.54
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.045
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        22.5,
+        26.5
+      ]
+    }
+  ]
+}

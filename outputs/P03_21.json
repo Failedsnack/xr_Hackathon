@@ -1,0 +1,262 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P03_21",
+  "duration_sec": 31.9,
+  "label": {
+    "name": "cooking",
+    "score": 0.786
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        14.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.589
+    },
+    {
+      "segment": [
+        0.0,
+        9.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.311
+    },
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.095
+    },
+    {
+      "segment": [
+        2.0,
+        6.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        5.0,
+        7.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.091
+    },
+    {
+      "segment": [
+        6.0,
+        8.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.089
+    },
+    {
+      "segment": [
+        7.0,
+        13.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.319
+    },
+    {
+      "segment": [
+        8.0,
+        13.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.458
+    },
+    {
+      "segment": [
+        12.0,
+        15.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.068
+    },
+    {
+      "segment": [
+        12.0,
+        15.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.066
+    },
+    {
+      "segment": [
+        13.0,
+        24.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.062
+    },
+    {
+      "segment": [
+        14.0,
+        16.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        14.0,
+        17.0
+      ],
+      "verb": "wash",
+      "noun": "knife",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        15.0,
+        17.0
+      ],
+      "verb": "take",
+      "noun": "sponge",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        16.0,
+        21.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        16.0,
+        21.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        20.0,
+        23.0
+      ],
+      "verb": "take",
+      "noun": "sponge",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        20.0,
+        23.0
+      ],
+      "verb": "put",
+      "noun": "sponge",
+      "score": 0.026
+    },
+    {
+      "segment": [
+        22.0,
+        29.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.529
+    },
+    {
+      "segment": [
+        22.0,
+        24.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        23.0,
+        29.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.313
+    },
+    {
+      "segment": [
+        23.0,
+        25.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.062
+    },
+    {
+      "segment": [
+        24.0,
+        31.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.102
+    },
+    {
+      "segment": [
+        28.0,
+        31.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.09
+    },
+    {
+      "segment": [
+        28.0,
+        31.9
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        30.0,
+        31.9
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.073
+    },
+    {
+      "segment": [
+        30.0,
+        31.9
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.066
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        2.5,
+        6.5
+      ]
+    }
+  ]
+}
