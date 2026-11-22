@@ -93,10 +93,15 @@ def download_epic(vid: str, work: Path, scripts: Path) -> Path:
     cmd = [sys.executable, "epic_downloader.py", "--videos", "--specific-videos", vid, "--output-path", str(out)]
     # the downloader reads data/*.csv relative to its own folder, so it must run from there
     subprocess.run(cmd, cwd=scripts, check=True, capture_output=True, text=True)
-    path = out / vid.split("_")[0] / "videos" / f"{vid}.MP4"
-    if not path.exists():
-        raise RuntimeError(f"downloader finished but {path} does not exist")
-    return path
+    # The official downloader writes <out>/EPIC-KITCHENS/<participant>/videos/<video>.MP4
+    part = vid.split("_")[0]
+    for path in (out / "EPIC-KITCHENS" / part / "videos" / f"{vid}.MP4", out / part / "videos" / f"{vid}.MP4"):
+        if path.exists():
+            return path
+    hits = sorted(out.rglob(f"{vid}.MP4"))
+    if hits:
+        return hits[0]
+    raise RuntimeError(f"downloader finished but no {vid}.MP4 was found under {out}")
 
 
 # ----------------------------------------------------------------------------- bookkeeping
