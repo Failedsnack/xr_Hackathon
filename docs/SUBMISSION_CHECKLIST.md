@@ -14,7 +14,7 @@ Source: organisers' slides ("Submission Guidelines") and `docs/TEAM_README.md`. 
 ## Presentation, video
 - [ ] Presentation file named **`CollegeName_TeamName`** (`.pptx` or `.pdf`), following the "Submission_Final_forGithub" template:
       Track no. / members / team / college, Problem, Solution, Architecture, Track final output, Differentiation, Demo & local setup, Brownie slides, Thank you
-- [ ] Demo video, **max 3 minutes**, in the repository (`Video .mp4`), optionally also on YouTube / Drive with the link added to the README
+- [ ] Demo video, **max 3 minutes**, in the repository (`demo_video.mp4`), optionally also on YouTube / Drive with the link added to the README
 
 ## Google Form
 | Field | Value |

@@ -10,7 +10,7 @@ Highlights always reference the original footage by timestamp; nothing is genera
 
 | | |
 |---|---|
-| Demo video (≤ 3 min) | [`Video .mp4`](Video%20.mp4) in this repository |
+| Demo video (≤ 3 min) | [`demo_video.mp4`](demo_video.mp4) in this repository |
 | Presentation | the `.pptx` in the repository root |
 | Method in one line | ffmpeg → motion / novelty / uniqueness / CLIP "activity" cues → redundancy-aware greedy selection under a time budget |
 | Models | OpenCLIP ViT-B/32 (LAION-2B), used zero-shot. **No training or fine-tuning was done.** |
@@ -121,6 +121,7 @@ run.sh                  single-video inference  ./run.sh <video.mp4> <out.json>
 code/vsum/              the system (videoio, importance, select, clipmodel, label, actions, schema, pipeline)
 weights/                epic_pair_prior.json (committed); CLIP checkpoint is downloaded here on first run
 outputs/                one validated JSON per video
+logs/                   run_log.csv written by tools/run_all.py
 data/                   manifest.csv, supported_classes.json, fpvsum_videolist.csv
 tools/                  validate.py, run_all.py, setup.sh, build_pair_prior.py
 tests/                  pytest suite (schema rules, selection invariants, end-to-end run)
