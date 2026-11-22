@@ -1,9 +1,26 @@
 # AI Disclosure
 
-## AI assistance used to build this submission
-- **Claude (Anthropic)** was used as a coding and writing assistant for: the pipeline design and code (`code/vsum/`), the batch runner and
-  validator (`tools/`), the tests, the Dockerfile and CI workflow, the README, the presentation draft and the demo-video script.
-- The author (Amritanshu Aditya) directed the work, reviewed the code and outputs, and is responsible for the submission.
+## Who did what
+This submission is the work of one author, **Amritanshu Aditya**. He chose the track, set the requirements and constraints,
+decided what was in scope, ran the system on the competition data, and reviewed and accepted every change in this repository.
+He is responsible for the submission and its outputs.
+
+An AI assistant (**Claude, by Anthropic**) was used as a development aid for the repetitive and mechanical parts of the work:
+
+- drafting boilerplate and implementation code from the author's requirements (`code/vsum/`, `tools/`)
+- writing and running the unit tests (`tests/`)
+- the Dockerfile, CI workflow and `.gitignore`
+- formatting the README, the submission checklist and the presentation draft
+
+The author reviewed this output, ran the pipeline end to end, and corrected or rejected what did not meet the task rules
+(output schema, class names, reproducibility, no use of ground truth).
+
+## Approach and design choices (author's direction)
+- Training-free and reproducible: pretrained weights only, no fine-tuning, no per-video rules.
+- Must run from the single command `./run.sh <video.mp4> <out.json>` on a laptop within the time limit,
+  so the pipeline streams video in chunks and has a resumable batch runner.
+- No ground truth from the validation videos is used anywhere. Only public training-split statistics are used as a prior.
+- Honest reporting: the README states that no score was measured, since no ground truth is available.
 
 ## AI models inside the submitted system
 | Model | Role | Training / fine-tuning |
