@@ -108,3 +108,9 @@ time,video_id,dataset,status,seconds,label,highlight_frac,n_actions,notes
 2026-11-22 16:02:29,Ski_UYmcm5bKvxk,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""
 2026-11-22 16:02:29,Plane_QsL_gCDHWHA,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""
 2026-11-22 16:02:29,Scuba_KD74Ywuy9ng,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""
+2026-11-22 16:10:20,P03_26,epic_kitchens_100,ok,4.3,cooking,0.3594,7,
+2026-11-22 16:12:29,P26_30,epic_kitchens_100,ok,5.7,cooking,0.2618,8,
+2026-11-22 16:12:38,P28_23,epic_kitchens_100,ok,9.9,cooking,0.159,21,
+2026-11-22 16:15:17,P32_07,epic_kitchens_100,ok,10.7,cooking,0.138,50,
+2026-11-22 16:16:01,P02_13,epic_kitchens_100,ok,11.3,cooking,0.1355,31,
+2026-11-22 16:18:27,P11_21,epic_kitchens_100,ok,11.1,cooking,0.1307,38,

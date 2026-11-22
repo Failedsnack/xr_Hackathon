@@ -1,0 +1,82 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P03_26",
+  "duration_sec": 11.13,
+  "label": {
+    "name": "cooking",
+    "score": 0.627
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        11.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.171
+    },
+    {
+      "segment": [
+        0.0,
+        6.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.11
+    },
+    {
+      "segment": [
+        0.0,
+        2.0
+      ],
+      "verb": "close",
+      "noun": "drawer",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        1.0,
+        6.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.078
+    },
+    {
+      "segment": [
+        5.0,
+        11.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.373
+    },
+    {
+      "segment": [
+        5.0,
+        10.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.307
+    },
+    {
+      "segment": [
+        9.0,
+        11.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.127
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        5.5,
+        9.5
+      ]
+    }
+  ]
+}

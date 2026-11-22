@@ -1,0 +1,208 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P28_23",
+  "duration_sec": 25.16,
+  "label": {
+    "name": "cooking",
+    "score": 1.0
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.077
+    },
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.035
+    },
+    {
+      "segment": [
+        2.0,
+        4.0
+      ],
+      "verb": "put",
+      "noun": "lid",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        3.0,
+        6.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.098
+    },
+    {
+      "segment": [
+        3.0,
+        6.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.092
+    },
+    {
+      "segment": [
+        3.0,
+        6.0
+      ],
+      "verb": "close",
+      "noun": "drawer",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        5.0,
+        10.0
+      ],
+      "verb": "open",
+      "noun": "microwave",
+      "score": 0.067
+    },
+    {
+      "segment": [
+        5.0,
+        7.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        5.0,
+        7.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        6.0,
+        9.0
+      ],
+      "verb": "open",
+      "noun": "oven",
+      "score": 0.067
+    },
+    {
+      "segment": [
+        6.0,
+        8.0
+      ],
+      "verb": "close",
+      "noun": "oven",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        7.0,
+        25.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.166
+    },
+    {
+      "segment": [
+        8.0,
+        13.0
+      ],
+      "verb": "turn-on",
+      "noun": "microwave",
+      "score": 0.058
+    },
+    {
+      "segment": [
+        9.0,
+        17.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.102
+    },
+    {
+      "segment": [
+        12.0,
+        16.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        15.0,
+        17.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        16.0,
+        25.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.15
+    },
+    {
+      "segment": [
+        16.0,
+        23.0
+      ],
+      "verb": "open",
+      "noun": "microwave",
+      "score": 0.087
+    },
+    {
+      "segment": [
+        22.0,
+        24.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        23.0,
+        25.0
+      ],
+      "verb": "close",
+      "noun": "drawer",
+      "score": 0.042
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        5.5,
+        9.5
+      ]
+    }
+  ]
+}
