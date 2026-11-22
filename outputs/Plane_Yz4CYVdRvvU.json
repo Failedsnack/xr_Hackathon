@@ -1,0 +1,58 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Plane_Yz4CYVdRvvU",
+  "duration_sec": 111.41,
+  "label": {
+    "name": "plane",
+    "score": 0.297
+  },
+  "actions": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.804
+    },
+    {
+      "segment": [
+        88.5,
+        92.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.678
+    },
+    {
+      "segment": [
+        107.5,
+        111.41
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.587
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ]
+    },
+    {
+      "segment": [
+        88.5,
+        92.5
+      ]
+    },
+    {
+      "segment": [
+        107.5,
+        111.41
+      ]
+    }
+  ]
+}

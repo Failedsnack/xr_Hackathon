@@ -1,0 +1,133 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Longboarding_Jec5YAjth6M",
+  "duration_sec": 247.87,
+  "label": {
+    "name": "longboarding",
+    "score": 0.689
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.839
+    },
+    {
+      "segment": [
+        8.0,
+        12.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.789
+    },
+    {
+      "segment": [
+        12.5,
+        16.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.859
+    },
+    {
+      "segment": [
+        22.5,
+        26.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.657
+    },
+    {
+      "segment": [
+        56.0,
+        60.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.77
+    },
+    {
+      "segment": [
+        85.5,
+        89.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.631
+    },
+    {
+      "segment": [
+        163.5,
+        167.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.679
+    },
+    {
+      "segment": [
+        244.0,
+        247.87
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.784
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ]
+    },
+    {
+      "segment": [
+        8.0,
+        12.0
+      ]
+    },
+    {
+      "segment": [
+        12.5,
+        16.5
+      ]
+    },
+    {
+      "segment": [
+        22.5,
+        26.5
+      ]
+    },
+    {
+      "segment": [
+        56.0,
+        60.0
+      ]
+    },
+    {
+      "segment": [
+        85.5,
+        89.5
+      ]
+    },
+    {
+      "segment": [
+        163.5,
+        167.5
+      ]
+    },
+    {
+      "segment": [
+        244.0,
+        247.87
+      ]
+    }
+  ]
+}

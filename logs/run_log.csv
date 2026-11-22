@@ -1,0 +1,110 @@
+time,video_id,dataset,status,seconds,label,highlight_frac,n_actions,notes
+2026-11-22 15:15:10,Skate_el49s-RlIa4,fpvsum,failed,,,,,ERROR: [youtube] el49s-RlIa4: The page needs to be reloaded.
+2026-11-22 15:15:12,Surfing_7bzMGVKaiCQ,fpvsum,failed,,,,,ERROR: [youtube] 7bzMGVKaiCQ: The page needs to be reloaded.
+2026-11-22 15:15:12,RockClimbing_oVnAVcbMoSM,fpvsum,failed,,,,,ERROR: [youtube] oVnAVcbMoSM: The page needs to be reloaded.
+2026-11-22 15:15:14,Jumping_kTzwvyzzfjk,fpvsum,failed,,,,,ERROR: [youtube] kTzwvyzzfjk: The page needs to be reloaded.
+2026-11-22 15:15:14,Surfing_BKwkLQr9ai8,fpvsum,failed,,,,,ERROR: [youtube] BKwkLQr9ai8: The page needs to be reloaded.
+2026-11-22 15:15:16,Plane_UM3DZadX_o4,fpvsum,failed,,,,,ERROR: [youtube] UM3DZadX_o4: The page needs to be reloaded.
+2026-11-22 15:15:16,Bike_Q_maV87d1I8,fpvsum,failed,,,,,ERROR: [youtube] Q_maV87d1I8: The page needs to be reloaded.
+2026-11-22 15:15:18,Parkour_LTwzB3VUApA,fpvsum,failed,,,,,ERROR: [youtube] LTwzB3VUApA: The page needs to be reloaded.
+2026-11-22 15:15:18,Plane_Yz4CYVdRvvU,fpvsum,failed,,,,,ERROR: [youtube] Yz4CYVdRvvU: The page needs to be reloaded.
+2026-11-22 15:15:19,Jumping_u_PL2jwfWy4,fpvsum,failed,,,,,ERROR: [youtube] u_PL2jwfWy4: The page needs to be reloaded.
+2026-11-22 15:15:19,Ski_5SH1-SAkYe0,fpvsum,failed,,,,,ERROR: [youtube] 5SH1-SAkYe0: The page needs to be reloaded.
+2026-11-22 15:15:21,Parkour_iQeKJuN7a9c,fpvsum,failed,,,,,ERROR: [youtube] iQeKJuN7a9c: The page needs to be reloaded.
+2026-11-22 15:15:21,Bike_x76VEPXYaI0,fpvsum,failed,,,,,ERROR: [youtube] x76VEPXYaI0: The page needs to be reloaded.
+2026-11-22 15:15:23,Surfing_8mG4YzFZ9xU,fpvsum,failed,,,,,ERROR: [youtube] 8mG4YzFZ9xU: The page needs to be reloaded.
+2026-11-22 15:15:23,Motor_1vq82J1BUY8,fpvsum,failed,,,,,ERROR: [youtube] 1vq82J1BUY8: The page needs to be reloaded.
+2026-11-22 15:15:24,Jumping__mU-p2wuk90,fpvsum,failed,,,,,ERROR: [youtube] _mU-p2wuk90: The page needs to be reloaded.
+2026-11-22 15:15:25,Boxing_mDOxBVYvDCU,fpvsum,failed,,,,,ERROR: [youtube] mDOxBVYvDCU: The page needs to be reloaded.
+2026-11-22 15:15:26,Longboarding_sgXJldYfbAs,fpvsum,failed,,,,,ERROR: [youtube] sgXJldYfbAs: The page needs to be reloaded.
+2026-11-22 15:15:26,Skate_3h8GZNyLpoU,fpvsum,failed,,,,,ERROR: [youtube] 3h8GZNyLpoU: The page needs to be reloaded.
+2026-11-22 15:15:28,Motor_0JZi_gJ7Jfw,fpvsum,failed,,,,,ERROR: [youtube] 0JZi_gJ7Jfw: The page needs to be reloaded.
+2026-11-22 15:15:28,Motor_G9Ud4mWGkRY,fpvsum,failed,,,,,ERROR: [youtube] G9Ud4mWGkRY: The page needs to be reloaded.
+2026-11-22 15:15:30,Horse_7ZzWccM_5cM,fpvsum,failed,,,,,ERROR: [youtube] 7ZzWccM_5cM: The page needs to be reloaded.
+2026-11-22 15:15:30,Parkour_Oykjn35X3EY,fpvsum,failed,,,,,ERROR: [youtube] Oykjn35X3EY: The page needs to be reloaded.
+2026-11-22 15:15:32,Ski_UYmcm5bKvxk,fpvsum,failed,,,,,ERROR: [youtube] UYmcm5bKvxk: The page needs to be reloaded.
+2026-11-22 15:15:34,Scuba_Um4kqB8bQBg,fpvsum,failed,,,,,ERROR: [youtube] Um4kqB8bQBg: The page needs to be reloaded.
+2026-11-22 15:15:34,Horse_C_2MSagUvms,fpvsum,failed,,,,,ERROR: [youtube] C_2MSagUvms: The page needs to be reloaded.
+2026-11-22 15:15:36,BikePolo_DHbYfmjX3WQ_3,fpvsum,failed,,,,,ERROR: [youtube] cFrIIqMYun8: The page needs to be reloaded.
+2026-11-22 15:15:36,BikePolo_DHbYfmjX3WQ_1,fpvsum,failed,,,,,ERROR: [youtube] hkNp3udSNV8: The page needs to be reloaded.
+2026-11-22 15:15:37,Jumping_IPRT9MZh3_s,fpvsum,failed,,,,,ERROR: [youtube] IPRT9MZh3_s: The page needs to be reloaded.
+2026-11-22 15:15:38,Ski_-Z5a4UQmZLs,fpvsum,failed,,,,,ERROR: [youtube] -Z5a4UQmZLs: The page needs to be reloaded.
+2026-11-22 15:15:39,Scuba__JnCVbCL5Wg,fpvsum,failed,,,,,ERROR: [youtube] _JnCVbCL5Wg: The page needs to be reloaded.
+2026-11-22 15:15:40,Boxing_gCsPzyhBxDY,fpvsum,failed,,,,,ERROR: [youtube] gCsPzyhBxDY: The page needs to be reloaded.
+2026-11-22 15:15:41,Parkour_svfI-bTdMcI,fpvsum,failed,,,,,ERROR: [youtube] svfI-bTdMcI: The page needs to be reloaded.
+2026-11-22 15:15:41,Motor_tWEfvMZQ7j4,fpvsum,failed,,,,,ERROR: [youtube] tWEfvMZQ7j4: The page needs to be reloaded.
+2026-11-22 15:15:43,Longboarding_vaJPwfOt7Bs,fpvsum,failed,,,,,ERROR: [youtube] vaJPwfOt7Bs: The page needs to be reloaded.
+2026-11-22 15:15:43,Surfing_G7lPf1gF-W4,fpvsum,failed,,,,,ERROR: [youtube] G7lPf1gF-W4: The page needs to be reloaded.
+2026-11-22 15:15:44,Plane_QsL_gCDHWHA,fpvsum,failed,,,,,ERROR: [youtube] QsL_gCDHWHA: The page needs to be reloaded.
+2026-11-22 15:15:45,Ski_5PoL6Vp8GEw,fpvsum,failed,,,,,ERROR: [youtube] 5PoL6Vp8GEw: The page needs to be reloaded.
+2026-11-22 15:15:46,Bike_OeE9EIIKmrA,fpvsum,failed,,,,,ERROR: [youtube] OeE9EIIKmrA: The page needs to be reloaded.
+2026-11-22 15:15:47,Horse_PEekyTcA8FU,fpvsum,failed,,,,,ERROR: [youtube] PEekyTcA8FU: The page needs to be reloaded.
+2026-11-22 15:15:48,Longboarding_Jec5YAjth6M,fpvsum,failed,,,,,ERROR: [youtube] Jec5YAjth6M: The page needs to be reloaded.
+2026-11-22 15:15:48,Horse_2otBDeLWCow,fpvsum,failed,,,,,ERROR: [youtube] 2otBDeLWCow: The page needs to be reloaded.
+2026-11-22 15:15:50,BikePolo_ccTGFdD18SM_1,fpvsum,failed,,,,,ERROR: [youtube] xSXO4Toq_Tg: The page needs to be reloaded.
+2026-11-22 15:15:50,Scuba_KD74Ywuy9ng,fpvsum,failed,,,,,ERROR: [youtube] KD74Ywuy9ng: Private video
+2026-11-22 15:15:51,BikePolo_5yf797Lh4Oc_1,fpvsum,failed,,,,,ERROR: [youtube] 6oOSbkUiJY0: The page needs to be reloaded.
+2026-11-22 15:15:52,Bike_lhTFVa0h9Rk,fpvsum,failed,,,,,ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-11-22 15:15:59,Boxing_6kDWXla9bMU,fpvsum,failed,,,,,ERROR: [youtube] 6kDWXla9bMU: The page needs to be reloaded.
+2026-11-22 15:15:59,RockClimbing_EaKtFLoXTCI,fpvsum,failed,,,,,ERROR: [youtube] EaKtFLoXTCI: The page needs to be reloaded.
+2026-11-22 15:16:18,P03_26,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P03/videos/P03_26.MP4 does not exist
+2026-11-22 15:23:34,P26_30,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P26/videos/P26_30.MP4 does not exist
+2026-11-22 15:24:37,Skate_el49s-RlIa4,fpvsum,ok,6.7,skate,0.1071,1,
+2026-11-22 15:24:48,Surfing_7bzMGVKaiCQ,fpvsum,ok,1.9,surfing,0.116,2,
+2026-11-22 15:24:50,RockClimbing_oVnAVcbMoSM,fpvsum,ok,2.4,rockclimbing,0.0957,2,
+2026-11-22 15:24:54,Jumping_kTzwvyzzfjk,fpvsum,ok,2.6,jumping,0.0955,2,
+2026-11-22 15:25:00,Surfing_BKwkLQr9ai8,fpvsum,ok,2.5,surfing,0.0952,2,
+2026-11-22 15:25:03,Plane_UM3DZadX_o4,fpvsum,failed,,,,,ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-11-22 15:25:03,Bike_Q_maV87d1I8,fpvsum,ok,2.5,motor,0.1236,3,
+2026-11-22 15:25:08,Parkour_LTwzB3VUApA,fpvsum,ok,3.1,parkour,0.1084,3,
+2026-11-22 15:25:11,Plane_Yz4CYVdRvvU,fpvsum,ok,3.4,plane,0.1069,3,
+2026-11-22 15:25:15,Jumping_u_PL2jwfWy4,fpvsum,ok,3.3,jumping,0.1366,4,
+2026-11-22 15:25:18,Ski_5SH1-SAkYe0,fpvsum,ok,3.3,ski,0.1337,4,
+2026-11-22 15:25:21,Parkour_iQeKJuN7a9c,fpvsum,ok,3.4,parkour,0.13,4,
+2026-11-22 15:25:29,Bike_x76VEPXYaI0,fpvsum,ok,3.5,bike,0.1298,4,
+2026-11-22 15:25:32,Surfing_8mG4YzFZ9xU,fpvsum,ok,3.4,surfing,0.129,4,
+2026-11-22 15:25:39,Motor_1vq82J1BUY8,fpvsum,ok,3.6,motor,0.1234,4,
+2026-11-22 15:25:43,Jumping__mU-p2wuk90,fpvsum,ok,3.6,jumping,0.1214,4,
+2026-11-22 15:25:47,Boxing_mDOxBVYvDCU,fpvsum,ok,3.4,boxing,0.1185,4,
+2026-11-22 15:25:50,Longboarding_sgXJldYfbAs,fpvsum,ok,3.8,longboarding,0.1181,4,
+2026-11-22 15:25:54,Skate_3h8GZNyLpoU,fpvsum,ok,3.8,skate,0.1173,4,
+2026-11-22 15:26:11,Motor_0JZi_gJ7Jfw,fpvsum,ok,3.5,motor,0.1143,4,
+2026-11-22 15:26:14,Motor_G9Ud4mWGkRY,fpvsum,ok,3.6,motor,0.1386,5,
+2026-11-22 15:26:18,Horse_7ZzWccM_5cM,fpvsum,ok,4.0,horse,0.1368,5,
+2026-11-22 15:26:25,Parkour_Oykjn35X3EY,fpvsum,ok,4.7,parkour,0.1274,5,
+2026-11-22 15:26:31,Ski_UYmcm5bKvxk,fpvsum,failed,,,,,ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-11-22 15:26:31,Scuba_Um4kqB8bQBg,fpvsum,ok,4.3,scuba,0.1258,5,
+2026-11-22 15:26:36,Horse_C_2MSagUvms,fpvsum,ok,5.2,horse,0.121,5,
+2026-11-22 15:26:51,BikePolo_DHbYfmjX3WQ_3,fpvsum,ok,3.8,bikepolo,0.1179,5,
+2026-11-22 15:26:55,BikePolo_DHbYfmjX3WQ_1,fpvsum,ok,4.0,bikepolo,0.1397,6,
+2026-11-22 15:26:59,Jumping_IPRT9MZh3_s,fpvsum,ok,4.8,jumping,0.1365,6,
+2026-11-22 15:27:03,Ski_-Z5a4UQmZLs,fpvsum,ok,5.3,ski,0.13,6,
+2026-11-22 15:27:14,Scuba__JnCVbCL5Wg,fpvsum,ok,5.2,scuba,0.1233,6,
+2026-11-22 15:27:19,Boxing_gCsPzyhBxDY,fpvsum,ok,5.0,boxing,0.1219,6,
+2026-11-22 15:27:24,Parkour_svfI-bTdMcI,fpvsum,ok,5.2,parkour,0.1382,7,
+2026-11-22 15:27:30,Motor_tWEfvMZQ7j4,fpvsum,ok,4.9,motor,0.1382,7,
+2026-11-22 15:27:36,Longboarding_vaJPwfOt7Bs,fpvsum,ok,5.4,longboarding,0.1381,7,
+2026-11-22 15:27:43,Surfing_G7lPf1gF-W4,fpvsum,ok,5.4,surfing,0.1372,7,
+2026-11-22 15:27:48,Plane_QsL_gCDHWHA,fpvsum,failed,,,,,ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-11-22 15:27:48,Ski_5PoL6Vp8GEw,fpvsum,ok,6.1,ski,0.1315,7,
+2026-11-22 15:28:01,Bike_OeE9EIIKmrA,fpvsum,ok,5.8,bike,0.1235,7,
+2026-11-22 15:28:06,Horse_PEekyTcA8FU,fpvsum,ok,6.2,horse,0.1397,8,
+2026-11-22 15:28:13,Longboarding_Jec5YAjth6M,fpvsum,ok,6.5,longboarding,0.1286,8,
+2026-11-22 15:28:24,Horse_2otBDeLWCow,fpvsum,ok,6.5,horse,0.1289,8,
+2026-11-22 15:28:31,BikePolo_ccTGFdD18SM_1,fpvsum,ok,6.4,bikepolo,0.1277,8,
+2026-11-22 15:28:37,Scuba_KD74Ywuy9ng,fpvsum,failed,,,,,"ERROR: [youtube] KD74Ywuy9ng: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/"
+2026-11-22 15:28:37,BikePolo_5yf797Lh4Oc_1,fpvsum,ok,7.1,bikepolo,0.1344,9,
+2026-11-22 15:28:46,Bike_lhTFVa0h9Rk,fpvsum,ok,9.8,motor,0.1391,10,
+2026-11-22 15:29:06,Boxing_6kDWXla9bMU,fpvsum,ok,9.1,boxing,0.139,12,
+2026-11-22 15:29:15,RockClimbing_EaKtFLoXTCI,fpvsum,ok,9.8,rockclimbing,0.139,13,
+2026-11-22 15:29:25,RockClimbing_mDUcIkDzpVI,fpvsum,ok,10.0,rockclimbing,0.1379,13,
+2026-11-22 15:23:34,P28_23,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P28/videos/P28_23.MP4 does not exist
+2026-11-22 15:35:33,P32_07,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P32/videos/P32_07.MP4 does not exist
+2026-11-22 15:40:35,P02_13,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P02/videos/P02_13.MP4 does not exist
+2026-11-22 15:40:35,P11_21,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P11/videos/P11_21.MP4 does not exist
+2026-11-22 15:54:34,P03_21,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P03/videos/P03_21.MP4 does not exist
+2026-11-22 15:54:34,P02_14,epic_kitchens_100,failed,,,,,downloader finished but /Users/amritanshuaditya/Desktop/xr_Hackhaton/work/epic/P02/videos/P02_14.MP4 does not exist
+2026-11-22 16:02:29,Plane_UM3DZadX_o4,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""
+2026-11-22 16:02:29,Ski_UYmcm5bKvxk,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""
+2026-11-22 16:02:29,Plane_QsL_gCDHWHA,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""
+2026-11-22 16:02:29,Scuba_KD74Ywuy9ng,fpvsum,failed,,,,,"ERROR: could not find chrome cookies database in ""/Users/amritanshuaditya/Library/Application Support/Google/Chrome"""

@@ -1,0 +1,43 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Jumping_kTzwvyzzfjk",
+  "duration_sec": 83.73,
+  "label": {
+    "name": "jumping",
+    "score": 0.43
+  },
+  "actions": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.688
+    },
+    {
+      "segment": [
+        75.0,
+        79.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.663
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ]
+    },
+    {
+      "segment": [
+        75.0,
+        79.0
+      ]
+    }
+  ]
+}

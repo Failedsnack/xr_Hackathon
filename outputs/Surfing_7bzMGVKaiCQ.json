@@ -1,0 +1,43 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Surfing_7bzMGVKaiCQ",
+  "duration_sec": 68.94,
+  "label": {
+    "name": "surfing",
+    "score": 0.888
+  },
+  "actions": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.747
+    },
+    {
+      "segment": [
+        44.0,
+        48.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.699
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ]
+    },
+    {
+      "segment": [
+        44.0,
+        48.0
+      ]
+    }
+  ]
+}

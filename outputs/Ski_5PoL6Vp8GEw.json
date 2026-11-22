@@ -1,0 +1,118 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Ski_5PoL6Vp8GEw",
+  "duration_sec": 213.0,
+  "label": {
+    "name": "ski",
+    "score": 0.637
+  },
+  "actions": [
+    {
+      "segment": [
+        9.5,
+        13.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.81
+    },
+    {
+      "segment": [
+        33.5,
+        37.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.685
+    },
+    {
+      "segment": [
+        44.0,
+        48.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.672
+    },
+    {
+      "segment": [
+        58.5,
+        62.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.675
+    },
+    {
+      "segment": [
+        148.0,
+        152.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.656
+    },
+    {
+      "segment": [
+        195.0,
+        199.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.688
+    },
+    {
+      "segment": [
+        202.5,
+        206.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.725
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        9.5,
+        13.5
+      ]
+    },
+    {
+      "segment": [
+        33.5,
+        37.5
+      ]
+    },
+    {
+      "segment": [
+        44.0,
+        48.0
+      ]
+    },
+    {
+      "segment": [
+        58.5,
+        62.5
+      ]
+    },
+    {
+      "segment": [
+        148.0,
+        152.0
+      ]
+    },
+    {
+      "segment": [
+        195.0,
+        199.0
+      ]
+    },
+    {
+      "segment": [
+        202.5,
+        206.5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Bike_lhTFVa0h9Rk",
+  "duration_sec": 287.51,
+  "label": {
+    "name": "motor",
+    "score": 0.578
+  },
+  "actions": [
+    {
+      "segment": [
+        4.5,
+        8.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.834
+    },
+    {
+      "segment": [
+        9.0,
+        13.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.659
+    },
+    {
+      "segment": [
+        28.0,
+        32.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.601
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.641
+    },
+    {
+      "segment": [
+        83.5,
+        87.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.618
+    },
+    {
+      "segment": [
+        143.0,
+        147.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.607
+    },
+    {
+      "segment": [
+        178.0,
+        182.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.693
+    },
+    {
+      "segment": [
+        214.0,
+        218.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.584
+    },
+    {
+      "segment": [
+        232.5,
+        236.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.617
+    },
+    {
+      "segment": [
+        254.0,
+        258.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.6
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        4.5,
+        8.5
+      ]
+    },
+    {
+      "segment": [
+        9.0,
+        13.0
+      ]
+    },
+    {
+      "segment": [
+        28.0,
+        32.0
+      ]
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ]
+    },
+    {
+      "segment": [
+        83.5,
+        87.5
+      ]
+    },
+    {
+      "segment": [
+        143.0,
+        147.0
+      ]
+    },
+    {
+      "segment": [
+        178.0,
+        182.0
+      ]
+    },
+    {
+      "segment": [
+        214.0,
+        218.0
+      ]
+    },
+    {
+      "segment": [
+        232.5,
+        236.5
+      ]
+    },
+    {
+      "segment": [
+        254.0,
+        258.0
+      ]
+    }
+  ]
+}

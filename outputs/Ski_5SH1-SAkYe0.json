@@ -1,0 +1,73 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Ski_5SH1-SAkYe0",
+  "duration_sec": 119.63,
+  "label": {
+    "name": "ski",
+    "score": 0.948
+  },
+  "actions": [
+    {
+      "segment": [
+        4.0,
+        8.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.753
+    },
+    {
+      "segment": [
+        72.5,
+        76.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.636
+    },
+    {
+      "segment": [
+        81.0,
+        85.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.64
+    },
+    {
+      "segment": [
+        100.0,
+        104.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.685
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        4.0,
+        8.0
+      ]
+    },
+    {
+      "segment": [
+        72.5,
+        76.5
+      ]
+    },
+    {
+      "segment": [
+        81.0,
+        85.0
+      ]
+    },
+    {
+      "segment": [
+        100.0,
+        104.0
+      ]
+    }
+  ]
+}

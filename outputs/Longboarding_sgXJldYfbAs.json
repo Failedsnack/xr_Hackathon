@@ -1,0 +1,73 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Longboarding_sgXJldYfbAs",
+  "duration_sec": 135.44,
+  "label": {
+    "name": "longboarding",
+    "score": 0.679
+  },
+  "actions": [
+    {
+      "segment": [
+        2.0,
+        6.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.849
+    },
+    {
+      "segment": [
+        54.5,
+        58.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.66
+    },
+    {
+      "segment": [
+        72.0,
+        76.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.693
+    },
+    {
+      "segment": [
+        77.5,
+        81.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.793
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        2.0,
+        6.0
+      ]
+    },
+    {
+      "segment": [
+        54.5,
+        58.5
+      ]
+    },
+    {
+      "segment": [
+        72.0,
+        76.0
+      ]
+    },
+    {
+      "segment": [
+        77.5,
+        81.5
+      ]
+    }
+  ]
+}

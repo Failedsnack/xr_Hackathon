@@ -1,0 +1,58 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Bike_Q_maV87d1I8",
+  "duration_sec": 97.11,
+  "label": {
+    "name": "motor",
+    "score": 0.457
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.772
+    },
+    {
+      "segment": [
+        24.5,
+        28.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.744
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.655
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ]
+    },
+    {
+      "segment": [
+        24.5,
+        28.5
+      ]
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ]
+    }
+  ]
+}

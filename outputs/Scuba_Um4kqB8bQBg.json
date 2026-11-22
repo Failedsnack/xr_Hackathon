@@ -1,0 +1,88 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Scuba_Um4kqB8bQBg",
+  "duration_sec": 158.99,
+  "label": {
+    "name": "scuba",
+    "score": 0.91
+  },
+  "actions": [
+    {
+      "segment": [
+        18.0,
+        22.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.778
+    },
+    {
+      "segment": [
+        25.5,
+        29.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.737
+    },
+    {
+      "segment": [
+        53.0,
+        57.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.763
+    },
+    {
+      "segment": [
+        82.5,
+        86.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.816
+    },
+    {
+      "segment": [
+        96.5,
+        100.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.753
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        18.0,
+        22.0
+      ]
+    },
+    {
+      "segment": [
+        25.5,
+        29.5
+      ]
+    },
+    {
+      "segment": [
+        53.0,
+        57.0
+      ]
+    },
+    {
+      "segment": [
+        82.5,
+        86.5
+      ]
+    },
+    {
+      "segment": [
+        96.5,
+        100.5
+      ]
+    }
+  ]
+}

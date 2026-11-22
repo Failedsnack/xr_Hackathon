@@ -1,0 +1,133 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Horse_2otBDeLWCow",
+  "duration_sec": 248.25,
+  "label": {
+    "name": "horse",
+    "score": 0.516
+  },
+  "actions": [
+    {
+      "segment": [
+        9.0,
+        13.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.843
+    },
+    {
+      "segment": [
+        161.0,
+        165.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.769
+    },
+    {
+      "segment": [
+        168.0,
+        172.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.821
+    },
+    {
+      "segment": [
+        174.5,
+        178.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.83
+    },
+    {
+      "segment": [
+        179.0,
+        183.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.712
+    },
+    {
+      "segment": [
+        184.5,
+        188.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.795
+    },
+    {
+      "segment": [
+        189.0,
+        193.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.694
+    },
+    {
+      "segment": [
+        227.0,
+        231.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.762
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        9.0,
+        13.0
+      ]
+    },
+    {
+      "segment": [
+        161.0,
+        165.0
+      ]
+    },
+    {
+      "segment": [
+        168.0,
+        172.0
+      ]
+    },
+    {
+      "segment": [
+        174.5,
+        178.5
+      ]
+    },
+    {
+      "segment": [
+        179.0,
+        183.0
+      ]
+    },
+    {
+      "segment": [
+        184.5,
+        188.5
+      ]
+    },
+    {
+      "segment": [
+        189.0,
+        193.0
+      ]
+    },
+    {
+      "segment": [
+        227.0,
+        231.0
+      ]
+    }
+  ]
+}

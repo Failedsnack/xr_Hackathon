@@ -1,0 +1,73 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Bike_x76VEPXYaI0",
+  "duration_sec": 123.3,
+  "label": {
+    "name": "bike",
+    "score": 0.619
+  },
+  "actions": [
+    {
+      "segment": [
+        4.5,
+        8.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.682
+    },
+    {
+      "segment": [
+        69.0,
+        73.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.629
+    },
+    {
+      "segment": [
+        87.0,
+        91.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.613
+    },
+    {
+      "segment": [
+        100.5,
+        104.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.662
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        4.5,
+        8.5
+      ]
+    },
+    {
+      "segment": [
+        69.0,
+        73.0
+      ]
+    },
+    {
+      "segment": [
+        87.0,
+        91.0
+      ]
+    },
+    {
+      "segment": [
+        100.5,
+        104.5
+      ]
+    }
+  ]
+}

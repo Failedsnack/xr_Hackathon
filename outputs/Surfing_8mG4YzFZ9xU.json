@@ -1,0 +1,73 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Surfing_8mG4YzFZ9xU",
+  "duration_sec": 124.02,
+  "label": {
+    "name": "surfing",
+    "score": 0.833
+  },
+  "actions": [
+    {
+      "segment": [
+        2.5,
+        6.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.788
+    },
+    {
+      "segment": [
+        30.5,
+        34.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.816
+    },
+    {
+      "segment": [
+        100.0,
+        104.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.707
+    },
+    {
+      "segment": [
+        106.5,
+        110.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.735
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        2.5,
+        6.5
+      ]
+    },
+    {
+      "segment": [
+        30.5,
+        34.5
+      ]
+    },
+    {
+      "segment": [
+        100.0,
+        104.0
+      ]
+    },
+    {
+      "segment": [
+        106.5,
+        110.5
+      ]
+    }
+  ]
+}

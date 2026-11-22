@@ -1,0 +1,118 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Parkour_svfI-bTdMcI",
+  "duration_sec": 202.62,
+  "label": {
+    "name": "parkour",
+    "score": 0.618
+  },
+  "actions": [
+    {
+      "segment": [
+        4.0,
+        8.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.667
+    },
+    {
+      "segment": [
+        10.5,
+        14.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.666
+    },
+    {
+      "segment": [
+        42.0,
+        46.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.601
+    },
+    {
+      "segment": [
+        119.0,
+        123.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.607
+    },
+    {
+      "segment": [
+        139.0,
+        143.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.606
+    },
+    {
+      "segment": [
+        168.0,
+        172.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.608
+    },
+    {
+      "segment": [
+        191.0,
+        195.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.542
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        4.0,
+        8.0
+      ]
+    },
+    {
+      "segment": [
+        10.5,
+        14.5
+      ]
+    },
+    {
+      "segment": [
+        42.0,
+        46.0
+      ]
+    },
+    {
+      "segment": [
+        119.0,
+        123.0
+      ]
+    },
+    {
+      "segment": [
+        139.0,
+        143.0
+      ]
+    },
+    {
+      "segment": [
+        168.0,
+        172.0
+      ]
+    },
+    {
+      "segment": [
+        191.0,
+        195.0
+      ]
+    }
+  ]
+}

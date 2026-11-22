@@ -1,0 +1,103 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Boxing_gCsPzyhBxDY",
+  "duration_sec": 196.91,
+  "label": {
+    "name": "boxing",
+    "score": 0.748
+  },
+  "actions": [
+    {
+      "segment": [
+        35.0,
+        39.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.743
+    },
+    {
+      "segment": [
+        42.5,
+        46.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.704
+    },
+    {
+      "segment": [
+        60.0,
+        64.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.775
+    },
+    {
+      "segment": [
+        99.0,
+        103.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.783
+    },
+    {
+      "segment": [
+        126.5,
+        130.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.803
+    },
+    {
+      "segment": [
+        149.0,
+        153.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.727
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        35.0,
+        39.0
+      ]
+    },
+    {
+      "segment": [
+        42.5,
+        46.5
+      ]
+    },
+    {
+      "segment": [
+        60.0,
+        64.0
+      ]
+    },
+    {
+      "segment": [
+        99.0,
+        103.0
+      ]
+    },
+    {
+      "segment": [
+        126.5,
+        130.5
+      ]
+    },
+    {
+      "segment": [
+        149.0,
+        153.0
+      ]
+    }
+  ]
+}

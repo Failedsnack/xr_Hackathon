@@ -1,0 +1,148 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "BikePolo_5yf797Lh4Oc_1",
+  "duration_sec": 267.91,
+  "label": {
+    "name": "bikepolo",
+    "score": 0.585
+  },
+  "actions": [
+    {
+      "segment": [
+        4.5,
+        8.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.817
+    },
+    {
+      "segment": [
+        17.5,
+        21.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.629
+    },
+    {
+      "segment": [
+        32.5,
+        36.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.754
+    },
+    {
+      "segment": [
+        37.0,
+        41.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.694
+    },
+    {
+      "segment": [
+        62.5,
+        66.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.638
+    },
+    {
+      "segment": [
+        70.0,
+        74.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.689
+    },
+    {
+      "segment": [
+        74.5,
+        78.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.677
+    },
+    {
+      "segment": [
+        164.0,
+        168.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.729
+    },
+    {
+      "segment": [
+        230.0,
+        234.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.634
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        4.5,
+        8.5
+      ]
+    },
+    {
+      "segment": [
+        17.5,
+        21.5
+      ]
+    },
+    {
+      "segment": [
+        32.5,
+        36.5
+      ]
+    },
+    {
+      "segment": [
+        37.0,
+        41.0
+      ]
+    },
+    {
+      "segment": [
+        62.5,
+        66.5
+      ]
+    },
+    {
+      "segment": [
+        70.0,
+        74.0
+      ]
+    },
+    {
+      "segment": [
+        74.5,
+        78.5
+      ]
+    },
+    {
+      "segment": [
+        164.0,
+        168.0
+      ]
+    },
+    {
+      "segment": [
+        230.0,
+        234.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Surfing_G7lPf1gF-W4",
+  "duration_sec": 204.13,
+  "label": {
+    "name": "surfing",
+    "score": 0.925
+  },
+  "actions": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.8
+    },
+    {
+      "segment": [
+        65.0,
+        69.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.661
+    },
+    {
+      "segment": [
+        109.5,
+        113.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.649
+    },
+    {
+      "segment": [
+        122.5,
+        126.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.666
+    },
+    {
+      "segment": [
+        142.5,
+        146.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.678
+    },
+    {
+      "segment": [
+        165.0,
+        169.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.626
+    },
+    {
+      "segment": [
+        188.5,
+        192.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.711
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        3.0,
+        7.0
+      ]
+    },
+    {
+      "segment": [
+        65.0,
+        69.0
+      ]
+    },
+    {
+      "segment": [
+        109.5,
+        113.5
+      ]
+    },
+    {
+      "segment": [
+        122.5,
+        126.5
+      ]
+    },
+    {
+      "segment": [
+        142.5,
+        146.5
+      ]
+    },
+    {
+      "segment": [
+        165.0,
+        169.0
+      ]
+    },
+    {
+      "segment": [
+        188.5,
+        192.5
+      ]
+    }
+  ]
+}

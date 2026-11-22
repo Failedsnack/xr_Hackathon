@@ -1,0 +1,88 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Horse_C_2MSagUvms",
+  "duration_sec": 165.35,
+  "label": {
+    "name": "horse",
+    "score": 0.583
+  },
+  "actions": [
+    {
+      "segment": [
+        56.0,
+        60.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.74
+    },
+    {
+      "segment": [
+        79.5,
+        83.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.747
+    },
+    {
+      "segment": [
+        110.5,
+        114.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.793
+    },
+    {
+      "segment": [
+        121.5,
+        125.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.745
+    },
+    {
+      "segment": [
+        156.5,
+        160.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.789
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        56.0,
+        60.0
+      ]
+    },
+    {
+      "segment": [
+        79.5,
+        83.5
+      ]
+    },
+    {
+      "segment": [
+        110.5,
+        114.5
+      ]
+    },
+    {
+      "segment": [
+        121.5,
+        125.5
+      ]
+    },
+    {
+      "segment": [
+        156.5,
+        160.5
+      ]
+    }
+  ]
+}

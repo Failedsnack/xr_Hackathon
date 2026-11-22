@@ -1,0 +1,118 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Motor_tWEfvMZQ7j4",
+  "duration_sec": 202.64,
+  "label": {
+    "name": "motor",
+    "score": 0.907
+  },
+  "actions": [
+    {
+      "segment": [
+        3.5,
+        7.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.784
+    },
+    {
+      "segment": [
+        12.0,
+        16.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.706
+    },
+    {
+      "segment": [
+        20.5,
+        24.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.653
+    },
+    {
+      "segment": [
+        40.0,
+        44.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.646
+    },
+    {
+      "segment": [
+        82.0,
+        86.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.75
+    },
+    {
+      "segment": [
+        148.5,
+        152.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.647
+    },
+    {
+      "segment": [
+        177.5,
+        181.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.639
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        3.5,
+        7.5
+      ]
+    },
+    {
+      "segment": [
+        12.0,
+        16.0
+      ]
+    },
+    {
+      "segment": [
+        20.5,
+        24.5
+      ]
+    },
+    {
+      "segment": [
+        40.0,
+        44.0
+      ]
+    },
+    {
+      "segment": [
+        82.0,
+        86.0
+      ]
+    },
+    {
+      "segment": [
+        148.5,
+        152.5
+      ]
+    },
+    {
+      "segment": [
+        177.5,
+        181.5
+      ]
+    }
+  ]
+}

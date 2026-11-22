@@ -1,0 +1,58 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Parkour_LTwzB3VUApA",
+  "duration_sec": 110.74,
+  "label": {
+    "name": "parkour",
+    "score": 0.856
+  },
+  "actions": [
+    {
+      "segment": [
+        4.0,
+        8.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.749
+    },
+    {
+      "segment": [
+        29.5,
+        33.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.657
+    },
+    {
+      "segment": [
+        75.5,
+        79.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.722
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        4.0,
+        8.0
+      ]
+    },
+    {
+      "segment": [
+        29.5,
+        33.5
+      ]
+    },
+    {
+      "segment": [
+        75.5,
+        79.5
+      ]
+    }
+  ]
+}

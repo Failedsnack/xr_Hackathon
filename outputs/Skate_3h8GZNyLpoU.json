@@ -1,0 +1,73 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Skate_3h8GZNyLpoU",
+  "duration_sec": 136.44,
+  "label": {
+    "name": "skate",
+    "score": 0.552
+  },
+  "actions": [
+    {
+      "segment": [
+        7.5,
+        11.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.732
+    },
+    {
+      "segment": [
+        88.0,
+        92.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.711
+    },
+    {
+      "segment": [
+        107.0,
+        111.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.774
+    },
+    {
+      "segment": [
+        127.5,
+        131.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.734
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        7.5,
+        11.5
+      ]
+    },
+    {
+      "segment": [
+        88.0,
+        92.0
+      ]
+    },
+    {
+      "segment": [
+        107.0,
+        111.0
+      ]
+    },
+    {
+      "segment": [
+        127.5,
+        131.5
+      ]
+    }
+  ]
+}

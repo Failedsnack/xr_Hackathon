@@ -1,0 +1,133 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "BikePolo_ccTGFdD18SM_1",
+  "duration_sec": 250.66,
+  "label": {
+    "name": "bikepolo",
+    "score": 0.315
+  },
+  "actions": [
+    {
+      "segment": [
+        10.5,
+        14.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.677
+    },
+    {
+      "segment": [
+        53.5,
+        57.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.73
+    },
+    {
+      "segment": [
+        105.0,
+        109.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.671
+    },
+    {
+      "segment": [
+        144.0,
+        148.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.726
+    },
+    {
+      "segment": [
+        175.0,
+        179.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.746
+    },
+    {
+      "segment": [
+        192.0,
+        196.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.746
+    },
+    {
+      "segment": [
+        206.0,
+        210.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.644
+    },
+    {
+      "segment": [
+        241.0,
+        245.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.74
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        10.5,
+        14.5
+      ]
+    },
+    {
+      "segment": [
+        53.5,
+        57.5
+      ]
+    },
+    {
+      "segment": [
+        105.0,
+        109.0
+      ]
+    },
+    {
+      "segment": [
+        144.0,
+        148.0
+      ]
+    },
+    {
+      "segment": [
+        175.0,
+        179.0
+      ]
+    },
+    {
+      "segment": [
+        192.0,
+        196.0
+      ]
+    },
+    {
+      "segment": [
+        206.0,
+        210.0
+      ]
+    },
+    {
+      "segment": [
+        241.0,
+        245.0
+      ]
+    }
+  ]
+}

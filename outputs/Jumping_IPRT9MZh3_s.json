@@ -1,0 +1,103 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Jumping_IPRT9MZh3_s",
+  "duration_sec": 175.8,
+  "label": {
+    "name": "jumping",
+    "score": 0.552
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.75
+    },
+    {
+      "segment": [
+        46.5,
+        50.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.693
+    },
+    {
+      "segment": [
+        79.5,
+        83.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.722
+    },
+    {
+      "segment": [
+        133.5,
+        137.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.728
+    },
+    {
+      "segment": [
+        149.5,
+        153.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.705
+    },
+    {
+      "segment": [
+        171.5,
+        175.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.828
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ]
+    },
+    {
+      "segment": [
+        46.5,
+        50.5
+      ]
+    },
+    {
+      "segment": [
+        79.5,
+        83.5
+      ]
+    },
+    {
+      "segment": [
+        133.5,
+        137.5
+      ]
+    },
+    {
+      "segment": [
+        149.5,
+        153.5
+      ]
+    },
+    {
+      "segment": [
+        171.5,
+        175.5
+      ]
+    }
+  ]
+}

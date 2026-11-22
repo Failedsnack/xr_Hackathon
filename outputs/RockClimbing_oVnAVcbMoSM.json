@@ -1,0 +1,43 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "RockClimbing_oVnAVcbMoSM",
+  "duration_sec": 83.57,
+  "label": {
+    "name": "rockclimbing",
+    "score": 0.765
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.689
+    },
+    {
+      "segment": [
+        24.0,
+        28.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.838
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ]
+    },
+    {
+      "segment": [
+        24.0,
+        28.0
+      ]
+    }
+  ]
+}

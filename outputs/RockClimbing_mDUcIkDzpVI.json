@@ -1,0 +1,208 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "RockClimbing_mDUcIkDzpVI",
+  "duration_sec": 377.07,
+  "label": {
+    "name": "rockclimbing",
+    "score": 0.874
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.729
+    },
+    {
+      "segment": [
+        4.5,
+        8.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.794
+    },
+    {
+      "segment": [
+        14.5,
+        18.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.705
+    },
+    {
+      "segment": [
+        20.5,
+        24.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.759
+    },
+    {
+      "segment": [
+        37.0,
+        41.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.676
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.668
+    },
+    {
+      "segment": [
+        123.5,
+        127.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.696
+    },
+    {
+      "segment": [
+        189.5,
+        193.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.754
+    },
+    {
+      "segment": [
+        269.5,
+        273.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.769
+    },
+    {
+      "segment": [
+        277.0,
+        281.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.778
+    },
+    {
+      "segment": [
+        349.5,
+        353.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.788
+    },
+    {
+      "segment": [
+        354.0,
+        358.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.733
+    },
+    {
+      "segment": [
+        373.0,
+        377.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.703
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        0.0,
+        4.0
+      ]
+    },
+    {
+      "segment": [
+        4.5,
+        8.5
+      ]
+    },
+    {
+      "segment": [
+        14.5,
+        18.5
+      ]
+    },
+    {
+      "segment": [
+        20.5,
+        24.5
+      ]
+    },
+    {
+      "segment": [
+        37.0,
+        41.0
+      ]
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ]
+    },
+    {
+      "segment": [
+        123.5,
+        127.5
+      ]
+    },
+    {
+      "segment": [
+        189.5,
+        193.5
+      ]
+    },
+    {
+      "segment": [
+        269.5,
+        273.5
+      ]
+    },
+    {
+      "segment": [
+        277.0,
+        281.0
+      ]
+    },
+    {
+      "segment": [
+        349.5,
+        353.5
+      ]
+    },
+    {
+      "segment": [
+        354.0,
+        358.0
+      ]
+    },
+    {
+      "segment": [
+        373.0,
+        377.0
+      ]
+    }
+  ]
+}

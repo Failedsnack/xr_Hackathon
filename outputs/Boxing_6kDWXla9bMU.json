@@ -1,0 +1,193 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "Boxing_6kDWXla9bMU",
+  "duration_sec": 345.4,
+  "label": {
+    "name": "boxing",
+    "score": 0.962
+  },
+  "actions": [
+    {
+      "segment": [
+        21.0,
+        25.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.662
+    },
+    {
+      "segment": [
+        49.5,
+        53.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.799
+    },
+    {
+      "segment": [
+        54.5,
+        58.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.72
+    },
+    {
+      "segment": [
+        65.5,
+        69.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.745
+    },
+    {
+      "segment": [
+        79.0,
+        83.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.738
+    },
+    {
+      "segment": [
+        137.5,
+        141.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.748
+    },
+    {
+      "segment": [
+        176.0,
+        180.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.734
+    },
+    {
+      "segment": [
+        227.5,
+        231.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.81
+    },
+    {
+      "segment": [
+        248.0,
+        252.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.703
+    },
+    {
+      "segment": [
+        275.5,
+        279.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.78
+    },
+    {
+      "segment": [
+        285.5,
+        289.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.709
+    },
+    {
+      "segment": [
+        324.5,
+        328.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.673
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        21.0,
+        25.0
+      ]
+    },
+    {
+      "segment": [
+        49.5,
+        53.5
+      ]
+    },
+    {
+      "segment": [
+        54.5,
+        58.5
+      ]
+    },
+    {
+      "segment": [
+        65.5,
+        69.5
+      ]
+    },
+    {
+      "segment": [
+        79.0,
+        83.0
+      ]
+    },
+    {
+      "segment": [
+        137.5,
+        141.5
+      ]
+    },
+    {
+      "segment": [
+        176.0,
+        180.0
+      ]
+    },
+    {
+      "segment": [
+        227.5,
+        231.5
+      ]
+    },
+    {
+      "segment": [
+        248.0,
+        252.0
+      ]
+    },
+    {
+      "segment": [
+        275.5,
+        279.5
+      ]
+    },
+    {
+      "segment": [
+        285.5,
+        289.5
+      ]
+    },
+    {
+      "segment": [
+        324.5,
+        328.5
+      ]
+    }
+  ]
+}
