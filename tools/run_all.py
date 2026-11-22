@@ -257,6 +257,7 @@ def main() -> int:
                 write_json(result, str(args.out / f"{vid}.json"))
                 errors, _ = validate_file(args.out / f"{vid}.json", classes, manifest)
                 if errors:
+                    (args.out / f"{vid}.json").unlink(missing_ok=True)   # never leave an invalid file behind
                     raise RuntimeError("; ".join(errors))
                 rec.update(status="ok", seconds=info["seconds"], label=info["label"],
                            highlight_frac=info["highlight_frac"], n_actions=info["n_actions"],
