@@ -3,7 +3,6 @@
 ## AI assistance used to build this submission
 - **Claude (Anthropic)** was used as a coding and writing assistant for: the pipeline design and code (`code/vsum/`), the batch runner and
   validator (`tools/`), the tests, the Dockerfile and CI workflow, the README, the presentation draft and the demo-video script.
-  Commits that were prepared with Claude carry a `Co-Authored-By: Claude` trailer in the git history.
 - The author (Amritanshu Aditya) directed the work, reviewed the code and outputs, and is responsible for the submission.
 
 ## AI models inside the submitted system
