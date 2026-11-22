@@ -52,9 +52,22 @@ def find_local(video_dir: Path, vid: str) -> Path | None:
     return None
 
 
-def download_fpvsum(vid: str, work: Path, height: int) -> Path:
-    """FPVSum ids are <Category>_<YouTubeID>; 480p is plenty because frames are squashed to 224x224."""
-    youtube_id = vid.split("_", 1)[1]
+def load_fpvsum_ids(path: Path) -> dict[str, str]:
+    """video_name -> YouTube id, from the official FPVSum list (data/fpvsum_videolist.csv)."""
+    if not path.exists():
+        return {}
+    with open(path, newline="") as f:
+        return {r["video_name"]: r["youtube_id"] for r in csv.DictReader(f)}
+
+
+def youtube_id_for(vid: str, mapping: dict[str, str]) -> str:
+    """The official list is authoritative: e.g. BikePolo_DHbYfmjX3WQ_1 is YouTube id hkNp3udSNV8, not DHbYfmjX3WQ.
+    Fallback for ids missing from the list: <Category>_<YouTubeID>."""
+    return mapping.get(vid) or vid.split("_", 1)[1]
+
+
+def download_fpvsum(vid: str, work: Path, height: int, youtube_id: str) -> Path:
+    """480p is plenty because frames are squashed to 224x224."""
     dest = work / "dl"
     dest.mkdir(parents=True, exist_ok=True)
     fmt = (f"bv*[height<={height}][vcodec^=avc1]/bv*[height<={height}]/b[height<={height}]/worst")
@@ -202,6 +215,8 @@ def main() -> int:
     if any(r["dataset"] != "fpvsum" for r in todo) and args.video_dir is None:
         ensure_epic_scripts(args.epic_scripts)
 
+    fpv_ids = load_fpvsum_ids(C.DATA_DIR / "fpvsum_videolist.csv")
+
     def fetch(row) -> Path:
         vid = row["video_id"]
         if args.video_dir is not None:
@@ -210,7 +225,7 @@ def main() -> int:
                 raise FileNotFoundError(f"{vid} not found in {args.video_dir}")
             return p
         if row["dataset"] == "fpvsum":
-            return download_fpvsum(vid, args.work, args.yt_height)
+            return download_fpvsum(vid, args.work, args.yt_height, youtube_id_for(vid, fpv_ids))
         return download_epic(vid, args.work, args.epic_scripts)
 
     done_now, failed, added_since_commit = 0, [], 0
