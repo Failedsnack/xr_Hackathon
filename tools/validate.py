@@ -27,6 +27,8 @@ def main() -> int:
     ap.add_argument("--dir", type=Path, default=ROOT / "outputs", help="folder with <video_id>.json files")
     ap.add_argument("--manifest", type=Path, default=None, help="manifest.csv (default: data/manifest.csv if present)")
     ap.add_argument("--no-manifest", action="store_true", help="skip the manifest checks")
+    ap.add_argument("--allow-missing", action="store_true",
+                    help="do not fail when some manifest videos have no output yet (used by CI while the batch is running)")
     ap.add_argument("--quiet", action="store_true")
     args = ap.parse_args()
 
@@ -61,7 +63,7 @@ def main() -> int:
     if manifest is not None:
         missing = sorted(set(manifest) - {p.stem for p in files})
         if missing:
-            problems += 1
+            problems += 0 if args.allow_missing else 1
             print(f"MISSING  {len(missing)} of {len(manifest)} manifest videos have no output file "
                   f"(a missing file scores 0). First few: {', '.join(missing[:8])}")
 
