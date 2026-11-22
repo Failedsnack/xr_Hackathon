@@ -131,7 +131,10 @@ def git_commit_progress(out: Path, log: Path, done: int, total: int, added: int)
         subprocess.run(["git", "add", str(out), str(log)], cwd=ROOT, check=True)
         msg = f"Add outputs for {added} more videos ({done}/{total} of the manifest covered)"
         subprocess.run(["git", "commit", "-q", "-m", msg], cwd=ROOT, check=True)
-        subprocess.run(["git", "push", "-q"], cwd=ROOT, check=True)
+        if subprocess.run(["git", "push", "-q"], cwd=ROOT).returncode != 0:
+            # the remote moved (e.g. a README edit made elsewhere): rebase our output commits on top, then retry
+            subprocess.run(["git", "pull", "--rebase", "--autostash", "-q", "origin", "main"], cwd=ROOT, check=True)
+            subprocess.run(["git", "push", "-q"], cwd=ROOT, check=True)
         print(f"  committed and pushed: {msg}", flush=True)
     except subprocess.CalledProcessError as e:
         print(f"  (git commit/push skipped: {e})", flush=True)
