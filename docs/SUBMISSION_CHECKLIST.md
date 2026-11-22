@@ -12,7 +12,7 @@ Source: organisers' slides ("Submission Guidelines") and `docs/TEAM_README.md`. 
 - [ ] CI is green (Actions tab)
 
 ## Presentation, video
-- [ ] Presentation file named **`CollegeName_TeamName`** (`.pptx` or `.pdf`), following the "Submission_Final_forGithub" template:
+- [ ] Presentation file named **`SRMIST_Amritanshu`** (`.pptx` or `.pdf`), following the "Submission_Final_forGithub" template:
       Track no. / members / team / college, Problem, Solution, Architecture, Track final output, Differentiation, Demo & local setup, Brownie slides, Thank you
 - [ ] Demo video, **max 3 minutes**, in the repository (`demo_video.mp4`), optionally also on YouTube / Drive with the link added to the README
 
@@ -20,7 +20,7 @@ Source: organisers' slides ("Submission Guidelines") and `docs/TEAM_README.md`. 
 | Field | Value |
 |---|---|
 | Email | the SRM e-mail the form is signed in with |
-| `<College>_<TeamName>` | `SRMIST_<TeamName>` (same string as `team_id`) |
+| `<College>_<TeamName>` | `SRMIST_Amritanshu` (same string as `team_id.txt`) |
 | College | SRM Institute of Science and Technology |
 | Theme selected | Track 04: Action-Aware Video Summarization |
 | Team Member 1 (primary) | name, e-mail, mobile |

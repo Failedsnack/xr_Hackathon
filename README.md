@@ -41,8 +41,8 @@ The raw videos are not distributed, so `tools/run_all.py` fetches them one at a 
 FPVSum with `yt-dlp`), runs the same code path as `run.sh`, validates the result and deletes the video:
 
 ```bash
-python tools/run_all.py --team-id SRMIST_<TeamName>          # resumable; shortest videos first
-python tools/run_all.py --team-id SRMIST_<TeamName> --video-dir ~/videos   # if the videos are already on disk
+python tools/run_all.py                                  # team id is read from team_id.txt; resumable; shortest videos first
+python tools/run_all.py --video-dir ~/videos   # if the videos are already on disk
 ```
 
 Every run is logged in [`logs/run_log.csv`](logs) (status, runtime, label, highlight share, notes per video).

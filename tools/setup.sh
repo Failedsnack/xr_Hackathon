@@ -24,4 +24,4 @@ PYTHONPATH=code python -m vsum.warmup
 echo
 echo "Ready. Next:"
 echo "  source .venv/bin/activate"
-echo "  python tools/run_all.py --team-id SRMIST_<TeamName> --dry-run"
+echo "  python tools/run_all.py --dry-run"
