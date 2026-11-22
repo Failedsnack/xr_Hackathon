@@ -1,0 +1,43 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P07_13",
+  "duration_sec": 60.66,
+  "label": {
+    "name": "parkour",
+    "score": 0.327
+  },
+  "actions": [
+    {
+      "segment": [
+        24.5,
+        28.5
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.67
+    },
+    {
+      "segment": [
+        50.0,
+        54.0
+      ],
+      "verb": "other",
+      "noun": "other",
+      "score": 0.663
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        24.5,
+        28.5
+      ]
+    },
+    {
+      "segment": [
+        50.0,
+        54.0
+      ]
+    }
+  ]
+}
