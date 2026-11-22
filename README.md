@@ -2,7 +2,7 @@
 
 **Samsung PRISM XR Hackathon 2026 · Track 04 (XR Perception Group)** · Amritanshu Aditya, SRM Institute of Science and Technology
 
-![ci](https://github.com/Failedsnack/xr_Hackhaton/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/Failedsnack/xr_Hackathon/actions/workflows/ci.yml/badge.svg)
 
 Given a first-person video (2–10 minutes), the system picks the important, non-repetitive moments and returns one JSON per video with
 a **highlight reel of about 14% of the footage** (hard limit 15%), the **video category**, and **verb–noun actions** with timestamps.
