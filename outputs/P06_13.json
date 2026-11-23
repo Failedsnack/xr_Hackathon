@@ -1,0 +1,1942 @@
+{
+  "team_id": "SRMIST_Amritanshu",
+  "video_id": "P06_13",
+  "duration_sec": 240.37,
+  "label": {
+    "name": "cooking",
+    "score": 0.96
+  },
+  "actions": [
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        0.0,
+        2.0
+      ],
+      "verb": "wash",
+      "noun": "board:chopping",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        0.0,
+        3.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.043
+    },
+    {
+      "segment": [
+        1.0,
+        17.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.105
+    },
+    {
+      "segment": [
+        2.0,
+        5.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        2.0,
+        4.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        3.0,
+        6.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        4.0,
+        6.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        5.0,
+        7.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        5.0,
+        7.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        6.0,
+        9.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        6.0,
+        8.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        7.0,
+        9.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        8.0,
+        11.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        8.0,
+        10.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.031
+    },
+    {
+      "segment": [
+        9.0,
+        13.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        10.0,
+        12.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        11.0,
+        13.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        12.0,
+        15.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        12.0,
+        14.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.04
+    },
+    {
+      "segment": [
+        13.0,
+        15.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        14.0,
+        16.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.064
+    },
+    {
+      "segment": [
+        14.0,
+        19.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        15.0,
+        17.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        16.0,
+        18.0
+      ],
+      "verb": "put",
+      "noun": "sauce",
+      "score": 0.035
+    },
+    {
+      "segment": [
+        16.0,
+        18.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        17.0,
+        27.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.094
+    },
+    {
+      "segment": [
+        17.0,
+        19.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        18.0,
+        24.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.064
+    },
+    {
+      "segment": [
+        18.0,
+        21.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        20.0,
+        22.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        21.0,
+        23.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.033
+    },
+    {
+      "segment": [
+        22.0,
+        25.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.067
+    },
+    {
+      "segment": [
+        23.0,
+        26.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        24.0,
+        29.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        25.0,
+        29.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        26.0,
+        28.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        27.0,
+        31.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        28.0,
+        43.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.079
+    },
+    {
+      "segment": [
+        28.0,
+        32.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.054
+    },
+    {
+      "segment": [
+        30.0,
+        32.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.029
+    },
+    {
+      "segment": [
+        31.0,
+        34.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        31.0,
+        33.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        32.0,
+        34.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        33.0,
+        37.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.081
+    },
+    {
+      "segment": [
+        33.0,
+        40.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.069
+    },
+    {
+      "segment": [
+        36.0,
+        40.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        39.0,
+        42.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.058
+    },
+    {
+      "segment": [
+        39.0,
+        47.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.056
+    },
+    {
+      "segment": [
+        41.0,
+        44.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        42.0,
+        45.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        43.0,
+        45.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.028
+    },
+    {
+      "segment": [
+        44.0,
+        46.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        44.0,
+        46.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        45.0,
+        57.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.096
+    },
+    {
+      "segment": [
+        45.0,
+        51.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.069
+    },
+    {
+      "segment": [
+        46.0,
+        50.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        49.0,
+        57.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        50.0,
+        53.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        52.0,
+        54.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.023
+    },
+    {
+      "segment": [
+        53.0,
+        55.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.025
+    },
+    {
+      "segment": [
+        54.0,
+        56.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        55.0,
+        57.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.04
+    },
+    {
+      "segment": [
+        56.0,
+        61.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.09
+    },
+    {
+      "segment": [
+        56.0,
+        59.0
+      ],
+      "verb": "wash",
+      "noun": "knife",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        56.0,
+        58.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        57.0,
+        59.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        58.0,
+        61.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.068
+    },
+    {
+      "segment": [
+        58.0,
+        60.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.052
+    },
+    {
+      "segment": [
+        59.0,
+        61.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        60.0,
+        63.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.069
+    },
+    {
+      "segment": [
+        60.0,
+        63.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        60.0,
+        62.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        61.0,
+        63.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        62.0,
+        66.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.071
+    },
+    {
+      "segment": [
+        62.0,
+        65.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.06
+    },
+    {
+      "segment": [
+        62.0,
+        64.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.04
+    },
+    {
+      "segment": [
+        63.0,
+        66.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.069
+    },
+    {
+      "segment": [
+        64.0,
+        69.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.185
+    },
+    {
+      "segment": [
+        65.0,
+        69.0
+      ],
+      "verb": "open",
+      "noun": "drawer",
+      "score": 0.169
+    },
+    {
+      "segment": [
+        65.0,
+        69.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.114
+    },
+    {
+      "segment": [
+        68.0,
+        71.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.06
+    },
+    {
+      "segment": [
+        68.0,
+        70.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        68.0,
+        70.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        69.0,
+        74.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        69.0,
+        71.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.026
+    },
+    {
+      "segment": [
+        70.0,
+        73.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        70.0,
+        73.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.032
+    },
+    {
+      "segment": [
+        72.0,
+        75.0
+      ],
+      "verb": "wash",
+      "noun": "knife",
+      "score": 0.056
+    },
+    {
+      "segment": [
+        72.0,
+        74.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.043
+    },
+    {
+      "segment": [
+        73.0,
+        77.0
+      ],
+      "verb": "turn-off",
+      "noun": "tap",
+      "score": 0.071
+    },
+    {
+      "segment": [
+        73.0,
+        76.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.068
+    },
+    {
+      "segment": [
+        74.0,
+        79.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.109
+    },
+    {
+      "segment": [
+        75.0,
+        78.0
+      ],
+      "verb": "turn-on",
+      "noun": "tap",
+      "score": 0.07
+    },
+    {
+      "segment": [
+        76.0,
+        79.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.085
+    },
+    {
+      "segment": [
+        77.0,
+        79.0
+      ],
+      "verb": "open",
+      "noun": "fridge",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        78.0,
+        82.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.082
+    },
+    {
+      "segment": [
+        78.0,
+        81.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.061
+    },
+    {
+      "segment": [
+        78.0,
+        80.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        79.0,
+        82.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        80.0,
+        85.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.104
+    },
+    {
+      "segment": [
+        81.0,
+        84.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.098
+    },
+    {
+      "segment": [
+        81.0,
+        83.0
+      ],
+      "verb": "close",
+      "noun": "drawer",
+      "score": 0.086
+    },
+    {
+      "segment": [
+        82.0,
+        84.0
+      ],
+      "verb": "close",
+      "noun": "fridge",
+      "score": 0.056
+    },
+    {
+      "segment": [
+        83.0,
+        126.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.1
+    },
+    {
+      "segment": [
+        83.0,
+        85.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        84.0,
+        97.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.064
+    },
+    {
+      "segment": [
+        84.0,
+        86.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        85.0,
+        92.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        91.0,
+        93.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        92.0,
+        95.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        94.0,
+        96.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        95.0,
+        105.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.059
+    },
+    {
+      "segment": [
+        96.0,
+        99.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        98.0,
+        102.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.043
+    },
+    {
+      "segment": [
+        101.0,
+        103.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.039
+    },
+    {
+      "segment": [
+        102.0,
+        104.0
+      ],
+      "verb": "mix",
+      "noun": "soup",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        103.0,
+        113.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        104.0,
+        107.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        106.0,
+        115.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.071
+    },
+    {
+      "segment": [
+        112.0,
+        117.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        114.0,
+        118.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.058
+    },
+    {
+      "segment": [
+        116.0,
+        126.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.079
+    },
+    {
+      "segment": [
+        117.0,
+        119.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.049
+    },
+    {
+      "segment": [
+        118.0,
+        121.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        120.0,
+        122.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.031
+    },
+    {
+      "segment": [
+        121.0,
+        123.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        122.0,
+        124.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.06
+    },
+    {
+      "segment": [
+        123.0,
+        126.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        125.0,
+        130.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.122
+    },
+    {
+      "segment": [
+        125.0,
+        130.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.108
+    },
+    {
+      "segment": [
+        125.0,
+        130.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.052
+    },
+    {
+      "segment": [
+        129.0,
+        134.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.083
+    },
+    {
+      "segment": [
+        129.0,
+        132.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.058
+    },
+    {
+      "segment": [
+        129.0,
+        131.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        130.0,
+        136.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.082
+    },
+    {
+      "segment": [
+        131.0,
+        135.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.061
+    },
+    {
+      "segment": [
+        133.0,
+        140.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        134.0,
+        136.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.042
+    },
+    {
+      "segment": [
+        135.0,
+        138.0
+      ],
+      "verb": "wash",
+      "noun": "spoon",
+      "score": 0.072
+    },
+    {
+      "segment": [
+        135.0,
+        137.0
+      ],
+      "verb": "wash",
+      "noun": "plate",
+      "score": 0.064
+    },
+    {
+      "segment": [
+        136.0,
+        138.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        137.0,
+        139.0
+      ],
+      "verb": "close",
+      "noun": "cupboard",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        137.0,
+        139.0
+      ],
+      "verb": "open",
+      "noun": "cupboard",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        138.0,
+        149.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.113
+    },
+    {
+      "segment": [
+        138.0,
+        140.0
+      ],
+      "verb": "put",
+      "noun": "spoon",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        139.0,
+        164.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.133
+    },
+    {
+      "segment": [
+        139.0,
+        141.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        140.0,
+        152.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.111
+    },
+    {
+      "segment": [
+        148.0,
+        150.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        149.0,
+        151.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        150.0,
+        153.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.075
+    },
+    {
+      "segment": [
+        151.0,
+        166.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.122
+    },
+    {
+      "segment": [
+        152.0,
+        160.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.102
+    },
+    {
+      "segment": [
+        159.0,
+        165.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.076
+    },
+    {
+      "segment": [
+        163.0,
+        165.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        164.0,
+        191.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.14
+    },
+    {
+      "segment": [
+        164.0,
+        168.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        165.0,
+        191.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.155
+    },
+    {
+      "segment": [
+        167.0,
+        169.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.06
+    },
+    {
+      "segment": [
+        168.0,
+        184.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.069
+    },
+    {
+      "segment": [
+        183.0,
+        186.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.055
+    },
+    {
+      "segment": [
+        185.0,
+        188.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.04
+    },
+    {
+      "segment": [
+        187.0,
+        190.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.054
+    },
+    {
+      "segment": [
+        189.0,
+        194.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.084
+    },
+    {
+      "segment": [
+        190.0,
+        193.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.054
+    },
+    {
+      "segment": [
+        190.0,
+        192.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.048
+    },
+    {
+      "segment": [
+        191.0,
+        195.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.066
+    },
+    {
+      "segment": [
+        192.0,
+        197.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.068
+    },
+    {
+      "segment": [
+        193.0,
+        196.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.059
+    },
+    {
+      "segment": [
+        194.0,
+        214.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.075
+    },
+    {
+      "segment": [
+        195.0,
+        205.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        196.0,
+        198.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        197.0,
+        200.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.062
+    },
+    {
+      "segment": [
+        199.0,
+        201.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.043
+    },
+    {
+      "segment": [
+        200.0,
+        203.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.038
+    },
+    {
+      "segment": [
+        202.0,
+        204.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.04
+    },
+    {
+      "segment": [
+        203.0,
+        206.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        204.0,
+        209.0
+      ],
+      "verb": "take",
+      "noun": "spatula",
+      "score": 0.054
+    },
+    {
+      "segment": [
+        205.0,
+        207.0
+      ],
+      "verb": "put",
+      "noun": "spatula",
+      "score": 0.045
+    },
+    {
+      "segment": [
+        206.0,
+        211.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.044
+    },
+    {
+      "segment": [
+        208.0,
+        210.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        209.0,
+        213.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        210.0,
+        219.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.062
+    },
+    {
+      "segment": [
+        212.0,
+        215.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.056
+    },
+    {
+      "segment": [
+        213.0,
+        216.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.05
+    },
+    {
+      "segment": [
+        214.0,
+        221.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.071
+    },
+    {
+      "segment": [
+        215.0,
+        217.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.047
+    },
+    {
+      "segment": [
+        216.0,
+        218.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.036
+    },
+    {
+      "segment": [
+        217.0,
+        224.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.063
+    },
+    {
+      "segment": [
+        218.0,
+        220.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.051
+    },
+    {
+      "segment": [
+        219.0,
+        221.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.046
+    },
+    {
+      "segment": [
+        220.0,
+        223.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        220.0,
+        227.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.062
+    },
+    {
+      "segment": [
+        222.0,
+        226.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        223.0,
+        228.0
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        225.0,
+        228.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.057
+    },
+    {
+      "segment": [
+        226.0,
+        240.0
+      ],
+      "verb": "put",
+      "noun": "pan",
+      "score": 0.117
+    },
+    {
+      "segment": [
+        227.0,
+        229.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.041
+    },
+    {
+      "segment": [
+        227.0,
+        229.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.04
+    },
+    {
+      "segment": [
+        228.0,
+        231.0
+      ],
+      "verb": "mix",
+      "noun": "food",
+      "score": 0.037
+    },
+    {
+      "segment": [
+        228.0,
+        230.0
+      ],
+      "verb": "put",
+      "noun": "sauce",
+      "score": 0.034
+    },
+    {
+      "segment": [
+        229.0,
+        233.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.052
+    },
+    {
+      "segment": [
+        230.0,
+        236.0
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.065
+    },
+    {
+      "segment": [
+        232.0,
+        235.0
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.061
+    },
+    {
+      "segment": [
+        234.0,
+        240.37
+      ],
+      "verb": "take",
+      "noun": "plate",
+      "score": 0.189
+    },
+    {
+      "segment": [
+        235.0,
+        237.0
+      ],
+      "verb": "take",
+      "noun": "pan",
+      "score": 0.07
+    },
+    {
+      "segment": [
+        236.0,
+        240.37
+      ],
+      "verb": "put",
+      "noun": "plate",
+      "score": 0.213
+    },
+    {
+      "segment": [
+        239.0,
+        240.37
+      ],
+      "verb": "take",
+      "noun": "spoon",
+      "score": 0.047
+    }
+  ],
+  "highlights": [
+    {
+      "segment": [
+        2.5,
+        6.5
+      ]
+    },
+    {
+      "segment": [
+        29.5,
+        33.5
+      ]
+    },
+    {
+      "segment": [
+        35.5,
+        39.5
+      ]
+    },
+    {
+      "segment": [
+        61.5,
+        65.5
+      ]
+    },
+    {
+      "segment": [
+        70.0,
+        74.0
+      ]
+    },
+    {
+      "segment": [
+        78.0,
+        82.0
+      ]
+    },
+    {
+      "segment": [
+        82.5,
+        86.5
+      ]
+    },
+    {
+      "segment": [
+        134.5,
+        138.5
+      ]
+    }
+  ]
+}
